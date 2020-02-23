@@ -1,4 +1,4 @@
-# StoreU ❇
+# StoreU
 ### An easy to set up Unity package for the sqlite-net library.
 ---
 
