@@ -1,0 +1,10 @@
+{
+    "name": "de.antigui.storeu",
+    "displayName": "StoreU",
+    "version": "0.1.0",
+    "unity": "2018.4",
+    "description": "This package provides an easy, performant and tested interface for the sqlite-net library. \n\nTo find out more, click the \"View Documentation\" link.",
+    "keywords": ["sqlite", "database", "sql", "entity"],
+    "category": "Utility",
+    "dependencies": {}
+}
